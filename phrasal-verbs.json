@@ -1,5 +1,107 @@
 [
   {
+     "value": "Check in",
+     "definitions": [
+       {
+         "meaning": "Arrive and register at a hotel or airport",
+         "examples": [
+           "Please check in at least an hour before departure."
+         ]
+       }
+     ]
+   },
+
+  {
+     "value": "Check out",
+     "definitions": [
+       {
+         "meaning": "Leave the hotel after paying",
+         "examples": [
+           "We checked out at noon."
+         ]
+       }
+     ]
+   },
+
+  {
+     "value": "Take out",
+     "definitions": [
+       {
+         "meaning": "Remove",
+         "examples": [
+           "Please take out the trash before the whole house starts to smell."
+         ]
+       },
+       {
+         "meaning": "Invite on a date",
+         "examples": [
+           "Let me take you out for dinner."
+         ]
+       }
+     ]
+   },
+
+  {
+     "value": "Take over",
+     "definitions": [
+       {
+         "meaning": "Adopt a responsibility or duty from someone else",
+         "examples": [
+           "He will take over the job permanently when the accountant retires."
+         ]
+       },
+       {
+         "meaning": "Buy out the ownership of a business",
+         "examples": [
+           "Facebook took over Instagram several years ago."
+         ]
+       },
+       {
+         "meaning": "Take control",
+         "examples": [
+           "The general took over the country after the revolution."
+         ]
+       },
+       {
+         "meaning": "Annex a territory by conquest or invasion",
+         "examples": [
+           "Ancient Rome took over lands throughout the known world."
+         ]
+       }
+     ]
+   },
+
+  {
+     "value": "Take to",
+     "definitions": [
+       {
+         "meaning": "Adapt to; learn; master",
+         "examples": [
+           "She took to swimming like a fish."
+         ]
+       },
+       {
+         "meaning": "Begin a new habit",
+         "examples": [
+           "She took to smoking after the accident."
+         ]
+       }
+     ]
+   },
+
+  {
+     "value": "Take through",
+     "definitions": [
+       {
+         "meaning": "Explain a process in detail",
+         "examples": [
+           "I’ll take you through how to set up a web server."
+         ]
+       }
+     ]
+   },
+
+  {
      "value": "Get off",
      "definitions": [
        {

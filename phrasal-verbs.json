@@ -1,5 +1,154 @@
 [
   {
+     "value": "Get off",
+     "definitions": [
+       {
+         "meaning": "Move from being on top of (something) to not being on top of it",
+         "examples": [
+           "Get off your chair and help me."
+         ]
+       },
+       {
+         "meaning": "Leave a transport",
+         "examples": [
+           "You get off the train at the third stop."
+         ]
+       },
+       {
+         "meaning": "Stop using a phone or computer",
+         "examples": [
+           "Can you get off the phone, please? I need your help. "
+         ]
+       },
+       {
+         "meaning": "Leave work earlier or later than usual",
+         "examples": [
+           "If I can get off early tomorrow, I’ll give you a ride home."
+         ]
+       },
+       {
+         "meaning": "Stop touching or interfering with something or someone",
+         "examples": [
+           "Don’t touch me – get off!"
+         ]
+       },
+       {
+         "meaning": "Begin a sexual relationship with smb",
+         "examples": [
+           "I’d like to get off with him after the party."
+         ]
+       },
+       {
+         "meaning": "Escape (with usually only mild consequences)",
+         "examples": [
+           "The vandal got off easy, with only a fine."
+         ]
+       },
+       {
+         "meaning": "Fall asleep, usually with difficulty",
+         "examples": [
+           "If I wake up during the night, I cannot get off again."
+         ]
+       }
+     ]
+   },
+
+  {
+     "value": "Get on",
+     "definitions": [
+       {
+         "meaning": "Board smth, usually a vehicle",
+         "examples": [
+           "Please get on the bus as quickly as possible."
+         ]
+       },
+       {
+         "meaning": "Be successful, progress",
+         "examples": [
+           "She’s getting on very well at school."
+         ]
+       },
+       {
+         "meaning": "Become late",
+         "examples": [
+           "Time is getting on."
+         ]
+       },
+       {
+         "meaning": "Become old",
+         "examples": [
+           "My parents are visibly getting on a bit these days."
+         ]
+       },
+       {
+         "meaning": "Have a good relationship",
+         "examples": [
+           "I wish you and I could learn to get on."
+         ]
+       },
+       {
+         "meaning": "Start doing",
+         "examples": [
+           "The dishes need washing, the floor needs vacuuming, laundry needs folding. Get on it!"
+         ]
+       }
+     ]
+   },
+
+  {
+     "value": "Get on with",
+     "definitions": [
+       {
+         "meaning": "Begin or continue",
+         "examples": [
+           "I have to get on with my task."
+         ]
+       }
+     ]
+   },
+  {
+     "value": "Get out",
+     "definitions": [
+       {
+         "meaning": "Leave or escape",
+         "examples": [
+           "In case of fire, get out by the nearest exit."
+         ]
+       },
+       {
+         "meaning": "Become known",
+         "examples": [
+           "Somehow the secret got out."
+         ]
+       },
+       {
+         "meaning": "Spend free time out of the house",
+         "examples": [
+           "You work too hard. You should get out more."
+         ]
+       },
+       {
+         "meaning": "Eliminate dirt or stains",
+         "examples": [
+           "This detergent will get most household stains out."
+         ]
+       }
+     ]
+   },
+
+
+  {
+     "value": "Get out of",
+     "definitions": [
+       {
+         "meaning": "Avoid doing smth",
+         "examples": [
+           "I only cheat so I can get out of doing work."
+         ]
+       }
+     ]
+   },
+  {
      "value": "Get over",
      "definitions": [
        {

@@ -1,5 +1,16 @@
 [
   {
+    "value": "Get up",
+    "definitions": [
+      {
+        "meaning": "Move upwards",
+        "examples": [
+          "I’m having difficulty getting up the stairs."
+        ]
+      }
+    ]
+  },
+  {
     "value": "Get up to",
     "definitions": [
       {

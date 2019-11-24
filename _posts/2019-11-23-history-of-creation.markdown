@@ -18,3 +18,7 @@ You can see our team the photo (from left to right):
 * Kirill Chernyshev
 * Sergey Savitsky
 * Diana	Lobach
+
+Majority of work was made by Michael, Kirill, Sergey, and Diana.
+All of them are students of Android Academy so it was the first Android project for them.
+We'd like to say thank you very much to Max, who drew app's design. 

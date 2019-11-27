@@ -5,6 +5,8 @@ layout: home
 The best things in your life comes for free: Love, Family, Friendship and of course Free English.
 Whole application and content is build by community for community!
 
+[![Available on Google Play Beta](/assets/gp_en_badge_web_generic.png)](https://play.google.com/apps/testing/io.github.freeenglish)
+
 Do you want to make awesome app too? Join us! There is a job for everyone:
 * Improve [open source Android Client](https://github.com/free-english/free-english-android)
 * Contribute to [open Study Materials](https://github.com/free-english/free-english.github.io)

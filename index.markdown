@@ -2,6 +2,15 @@
 layout: home
 ---
 ![Free English](/assets/free-english-full-logo.svg)
+
+English language is full of things that don't follow any logic rules:
+phrasal verbs, collocations, etc.
+Free English helps people learn English via regular tests:
+you pass few tests everyday,
+so that you repeat what you already know,
+or learn something new.
+For now Free English supports only phrasal verbs.
+
 The best things in your life comes for free: Love, Family, Friendship and of course Free English.
 Whole application and content is build by community for community!
 

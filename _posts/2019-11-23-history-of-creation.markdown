@@ -11,9 +11,9 @@ We gathered 22.11.2019 at 16:00 and then some magic happened:
 after 24 hours of work we got the first version of Free English.
 
 You can see our team the photo (from left to right):
-* Sergei Tsybliyenko
+* Sergei Tsybliyenko (mentor, Synesis)
 * Max Luzin
-* Vadzim Vysotski
+* Vadzim Vysotski (mentor, Godel Technologies)
 * Michael
 * Kirill Chernyshev
 * Sergey Savitsky
@@ -21,4 +21,14 @@ You can see our team the photo (from left to right):
 
 Majority of work was made by Kirill, Sergey, and Diana.
 All of them are students of Android Academy so it was the first Android project for them.
-We'd like to say thank you very much to Max, who drew app's design. 
+Everybody got a lot of new experience.
+Students learned how to work as a team: git, communication,
+it was a lot of new technologies for them which is related to Android development.
+Mentors learned how to organize a team, split and parallel backlog, explain new things to students.
+
+It was a challenging event for all of us:
+we resisted to fall asleep,
+learned new things on the spot, 
+discussed all the features over and over again util we found perfect balance between technical complexity and value for users.
+
+We'd like to say thank you very much to Max, who drew app's design, you're amazing!

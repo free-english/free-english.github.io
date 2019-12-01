@@ -1,0 +1,41 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "value": {
+        "type": "string"
+      },
+      "definitions": {
+        "type": "array",
+        "items": [
+          {
+            "type": "object",
+            "properties": {
+              "meaning": {
+                "type": "string"
+              },
+              "examples": {
+                "type": "array",
+                "items": [
+                  {
+                    "type": "string"
+                  }
+                ]
+              }
+            },
+            "required": [
+              "meaning",
+              "examples"
+            ]
+          }
+        ]
+      }
+    },
+    "required": [
+      "value",
+      "definitions"
+    ]
+  }
+}

@@ -3,5 +3,5 @@ rvm:
   - 2.5.3
 gemfile:
   - Gemfile-validation-only
-install: gem install rails
-script: bundle install
+install: bundle install
+script: ruby validate-materials.rb
